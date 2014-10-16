@@ -17,55 +17,6 @@
  <draw:color draw:name="Light magenta" draw:color="#ff00ff"/>
  <draw:color draw:name="Yellow" draw:color="#ffff00"/>
  <draw:color draw:name="White" draw:color="#ffffff"/>
-<!-- Microsoft LARISSA color scheme -->
- <draw:color draw:name="Larissa 1" draw:color="#eeece1"/>
- <draw:color draw:name="Larissa 1 (-10%)" draw:color="#ddd9c3"/>
- <draw:color draw:name="Larissa 1 (-25%)" draw:color="#c4bd97"/>
- <draw:color draw:name="Larissa 1 (-50%)" draw:color="#948a54"/>
- <draw:color draw:name="Larissa 1 (-75%)" draw:color="#4a452a"/>
- <draw:color draw:name="Larissa 1 (-90%)" draw:color="#1e1c11"/>
- <draw:color draw:name="Larissa 2" draw:color="#1f497d"/>
- <draw:color draw:name="Larissa 2 (+80%)" draw:color="#c6d9f1"/>
- <draw:color draw:name="Larissa 2 (+60%)" draw:color="#8eb4e3"/>
- <draw:color draw:name="Larissa 2 (+40%)" draw:color="#558ed5"/>
- <draw:color draw:name="Larissa 2 (-25%)" draw:color="#17375e"/>
- <draw:color draw:name="Larissa 2 (-50%)" draw:color="#10253f"/>
- <draw:color draw:name="Larissa 5" draw:color="#9bbb59"/>
- <draw:color draw:name="Larissa 5 (+80%)" draw:color="#ebf1de"/>
- <draw:color draw:name="Larissa 5 (+60%)" draw:color="#d7e4bd"/>
- <draw:color draw:name="Larissa 5 (+40%)" draw:color="#c3d69b"/>
- <draw:color draw:name="Larissa 5 (-25%)" draw:color="#77933c"/>
- <draw:color draw:name="Larissa 5 (-50%)" draw:color="#4f6228"/>
- <draw:color draw:name="Larissa 3" draw:color="#4f81bd"/>
- <draw:color draw:name="Larissa 3 (+80%)" draw:color="#dce6f2"/>
- <draw:color draw:name="Larissa 3 (+60%)" draw:color="#b9cde5"/>
- <draw:color draw:name="Larissa 3 (+40%)" draw:color="#95b3d7"/>
- <draw:color draw:name="Larissa 3 (-25%)" draw:color="#376092"/>
- <draw:color draw:name="Larissa 3 (-50%)" draw:color="#254061"/>
- <draw:color draw:name="Larissa 8" draw:color="#f79646"/>
- <draw:color draw:name="Larissa 8 (+80%)" draw:color="#fdeada"/>
- <draw:color draw:name="Larissa 8 (+60%)" draw:color="#fcd5b5"/>
- <draw:color draw:name="Larissa 8 (+40%)" draw:color="#fac090"/>
- <draw:color draw:name="Larissa 8 (-25%)" draw:color="#e46c0a"/>
- <draw:color draw:name="Larissa 8 (-50%)" draw:color="#984807"/>
- <draw:color draw:name="Larissa 7" draw:color="#4bacc6"/>
- <draw:color draw:name="Larissa 7 (+80%)" draw:color="#dbeef4"/>
- <draw:color draw:name="Larissa 7 (+60%)" draw:color="#b7dee8"/>
- <draw:color draw:name="Larissa 7 (+40%)" draw:color="#93cddd"/>
- <draw:color draw:name="Larissa 7 (-25%)" draw:color="#31859c"/>
- <draw:color draw:name="Larissa 7 (-50%)" draw:color="#215968"/>
- <draw:color draw:name="Larissa 4" draw:color="#c0504d"/>
- <draw:color draw:name="Larissa 4 (+80%)" draw:color="#f1dcdb"/>
- <draw:color draw:name="Larissa 4 (+60%)" draw:color="#e6b9b8"/>
- <draw:color draw:name="Larissa 4 (+40%)" draw:color="#d99694"/>
- <draw:color draw:name="Larissa 4 (-25%)" draw:color="#953735"/>
- <draw:color draw:name="Larissa 4 (-50%)" draw:color="#632523"/>
- <draw:color draw:name="Larissa 6" draw:color="#8064a2"/>
- <draw:color draw:name="Larissa 6 (+80%)" draw:color="#e6e0ec"/>
- <draw:color draw:name="Larissa 6 (+60%)" draw:color="#ccc1da"/>
- <draw:color draw:name="Larissa 6 (+40%)" draw:color="#b3a2c7"/>
- <draw:color draw:name="Larissa 6 (-25%)" draw:color="#614a7b"/>
- <draw:color draw:name="Larissa 6 (-50%)" draw:color="#403152"/>
 
 <!-- Standard color scheme -->
  <draw:color draw:name="Red 050" draw:color="#fde0dc"/>
@@ -394,5 +345,71 @@
  <draw:color draw:name="Deep Orange A200" draw:color="#ff6e40"/>
  <draw:color draw:name="Deep Orange A400" draw:color="#ff3d00"/>
  <draw:color draw:name="Deep Orange A700" draw:color="#dd2c00"/>
+
+<!-- blank white line -->
+ <draw:color draw:name="Blank 01" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 02" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 03" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 04" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 05" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 06" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 07" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 08" draw:color="#c0c0c0"/>
+<!--
+ <draw:color draw:name="Blank 09" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 10" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 11" draw:color="#c0c0c0"/>
+ <draw:color draw:name="Blank 12" draw:color="#c0c0c0"/>
+-->
+
+<!-- Microsoft LARISSA color scheme -->
+ <draw:color draw:name="Larissa 1" draw:color="#eeece1"/>
+ <draw:color draw:name="Larissa 1 (-10%)" draw:color="#ddd9c3"/>
+ <draw:color draw:name="Larissa 1 (-25%)" draw:color="#c4bd97"/>
+ <draw:color draw:name="Larissa 1 (-50%)" draw:color="#948a54"/>
+ <draw:color draw:name="Larissa 1 (-75%)" draw:color="#4a452a"/>
+ <draw:color draw:name="Larissa 1 (-90%)" draw:color="#1e1c11"/>
+ <draw:color draw:name="Larissa 2" draw:color="#1f497d"/>
+ <draw:color draw:name="Larissa 2 (+80%)" draw:color="#c6d9f1"/>
+ <draw:color draw:name="Larissa 2 (+60%)" draw:color="#8eb4e3"/>
+ <draw:color draw:name="Larissa 2 (+40%)" draw:color="#558ed5"/>
+ <draw:color draw:name="Larissa 2 (-25%)" draw:color="#17375e"/>
+ <draw:color draw:name="Larissa 2 (-50%)" draw:color="#10253f"/>
+ <draw:color draw:name="Larissa 5" draw:color="#9bbb59"/>
+ <draw:color draw:name="Larissa 5 (+80%)" draw:color="#ebf1de"/>
+ <draw:color draw:name="Larissa 5 (+60%)" draw:color="#d7e4bd"/>
+ <draw:color draw:name="Larissa 5 (+40%)" draw:color="#c3d69b"/>
+ <draw:color draw:name="Larissa 5 (-25%)" draw:color="#77933c"/>
+ <draw:color draw:name="Larissa 5 (-50%)" draw:color="#4f6228"/>
+ <draw:color draw:name="Larissa 3" draw:color="#4f81bd"/>
+ <draw:color draw:name="Larissa 3 (+80%)" draw:color="#dce6f2"/>
+ <draw:color draw:name="Larissa 3 (+60%)" draw:color="#b9cde5"/>
+ <draw:color draw:name="Larissa 3 (+40%)" draw:color="#95b3d7"/>
+ <draw:color draw:name="Larissa 3 (-25%)" draw:color="#376092"/>
+ <draw:color draw:name="Larissa 3 (-50%)" draw:color="#254061"/>
+ <draw:color draw:name="Larissa 8" draw:color="#f79646"/>
+ <draw:color draw:name="Larissa 8 (+80%)" draw:color="#fdeada"/>
+ <draw:color draw:name="Larissa 8 (+60%)" draw:color="#fcd5b5"/>
+ <draw:color draw:name="Larissa 8 (+40%)" draw:color="#fac090"/>
+ <draw:color draw:name="Larissa 8 (-25%)" draw:color="#e46c0a"/>
+ <draw:color draw:name="Larissa 8 (-50%)" draw:color="#984807"/>
+ <draw:color draw:name="Larissa 7" draw:color="#4bacc6"/>
+ <draw:color draw:name="Larissa 7 (+80%)" draw:color="#dbeef4"/>
+ <draw:color draw:name="Larissa 7 (+60%)" draw:color="#b7dee8"/>
+ <draw:color draw:name="Larissa 7 (+40%)" draw:color="#93cddd"/>
+ <draw:color draw:name="Larissa 7 (-25%)" draw:color="#31859c"/>
+ <draw:color draw:name="Larissa 7 (-50%)" draw:color="#215968"/>
+ <draw:color draw:name="Larissa 4" draw:color="#c0504d"/>
+ <draw:color draw:name="Larissa 4 (+80%)" draw:color="#f1dcdb"/>
+ <draw:color draw:name="Larissa 4 (+60%)" draw:color="#e6b9b8"/>
+ <draw:color draw:name="Larissa 4 (+40%)" draw:color="#d99694"/>
+ <draw:color draw:name="Larissa 4 (-25%)" draw:color="#953735"/>
+ <draw:color draw:name="Larissa 4 (-50%)" draw:color="#632523"/>
+ <draw:color draw:name="Larissa 6" draw:color="#8064a2"/>
+ <draw:color draw:name="Larissa 6 (+80%)" draw:color="#e6e0ec"/>
+ <draw:color draw:name="Larissa 6 (+60%)" draw:color="#ccc1da"/>
+ <draw:color draw:name="Larissa 6 (+40%)" draw:color="#b3a2c7"/>
+ <draw:color draw:name="Larissa 6 (-25%)" draw:color="#614a7b"/>
+ <draw:color draw:name="Larissa 6 (-50%)" draw:color="#403152"/>
 
 </ooo:color-table>
