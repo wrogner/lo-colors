@@ -362,6 +362,85 @@
  <draw:color draw:name="Blank 12" draw:color="#c0c0c0"/>
 -->
 
+<!-- Ubuntu colors -->
+ <draw:color draw:name="Ubuntu Orange 10%" draw:color="#FBECE7"/>
+ <draw:color draw:name="Ubuntu Orange 15%" draw:color="#F9E3DB"/>
+ <draw:color draw:name="Ubuntu Orange 20%" draw:color="#F8DAD0"/>
+ <draw:color draw:name="Ubuntu Orange 25%" draw:color="#F6D1C4"/>
+ <draw:color draw:name="Ubuntu Orange 30%" draw:color="#F4C8B8"/>
+ <draw:color draw:name="Ubuntu Orange 40%" draw:color="#F1B5A1"/>
+ <draw:color draw:name="Ubuntu Orange 50%" draw:color="#EEA389"/>
+ <draw:color draw:name="Ubuntu Orange 60%" draw:color="#EA9172"/>
+ <draw:color draw:name="Ubuntu Orange 70%" draw:color="#E77E5A"/>
+ <draw:color draw:name="Ubuntu Orange 80%" draw:color="#E36C43"/>
+ <draw:color draw:name="Ubuntu Orange 90%" draw:color="#E05A2B"/>
+ <draw:color draw:name="Ubuntu Orange 100%" draw:color="#DD4814"/>
+
+ <draw:color draw:name="Canonical Aubergine 10%" draw:color="#F1E9ED"/>
+ <draw:color draw:name="Canonical Aubergine 15%" draw:color="#EADEE5"/>
+ <draw:color draw:name="Canonical Aubergine 20%" draw:color="#E3D4DC"/>
+ <draw:color draw:name="Canonical Aubergine 25%" draw:color="#DDC9D4"/>
+ <draw:color draw:name="Canonical Aubergine 30%" draw:color="#D6BECB"/>
+ <draw:color draw:name="Canonical Aubergine 40%" draw:color="#C8A9BA"/>
+ <draw:color draw:name="Canonical Aubergine 50%" draw:color="#BB94A9"/>
+ <draw:color draw:name="Canonical Aubergine 60%" draw:color="#AD7E97"/>
+ <draw:color draw:name="Canonical Aubergine 70%" draw:color="#9F6986"/>
+ <draw:color draw:name="Canonical Aubergine 80%" draw:color="#925375"/>
+ <draw:color draw:name="Canonical Aubergine 90%" draw:color="#843E64"/>
+ <draw:color draw:name="Canonical Aubergine 100%" draw:color="#772953"/>
+
+ <draw:color draw:name="Ubuntu Lite Aubergine 10%" draw:color="#F1E8F0"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 15%" draw:color="#EADDE9"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 20%" draw:color="#E3D2E2"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 25%" draw:color="#DDC7DB"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 30%" draw:color="#D6BCD3"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 40%" draw:color="#C8A6C5"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 50%" draw:color="#BB90B7"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 60%" draw:color="#AD79A8"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 70%" draw:color="#9F639A"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 80%" draw:color="#924D8B"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 90%" draw:color="#84377D"/>
+ <draw:color draw:name="Ubuntu Lite Aubergine 100%" draw:color="#77216F"/>
+
+ <draw:color draw:name="Ubuntu Mid Aubergine 10%" draw:color="#EEE9ED"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 15%" draw:color="#E6DEE4"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 20%" draw:color="#DED3DC"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 25%" draw:color="#D6C9D3"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 30%" draw:color="#CEBECA"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 40%" draw:color="#BEA8B9"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 50%" draw:color="#AE93A7"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 60%" draw:color="#9E7D96"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 70%" draw:color="#8E6784"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 80%" draw:color="#7E5273"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 90%" draw:color="#6E3C61"/>
+ <draw:color draw:name="Ubuntu Mid Aubergine 100%" draw:color="#5E2750"/>
+
+ <draw:color draw:name="Ubuntu Dark Aubergine 10%" draw:color="#E9E5E8"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 15%" draw:color="#DFD8DD"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 20%" draw:color="#D4CCD2"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 25%" draw:color="#CABFC6"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 30%" draw:color="#BFB2BB"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 40%" draw:color="#AA99A5"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 50%" draw:color="#957F8E"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 60%" draw:color="#806678"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 70%" draw:color="#6B4C61"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 80%" draw:color="#56334B"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 90%" draw:color="#411934"/>
+ <draw:color draw:name="Ubuntu Dark Aubergine 100%" draw:color="#2C001E"/>
+
+ <draw:color draw:name="Ubuntu Warm Grey 10%" draw:color="#F6F6F5"/>
+ <draw:color draw:name="Ubuntu Warm Grey 15%" draw:color="#F2F1F0"/>
+ <draw:color draw:name="Ubuntu Warm Grey 20%" draw:color="#EEEDEB"/>
+ <draw:color draw:name="Ubuntu Warm Grey 25%" draw:color="#EAE9E7"/>
+ <draw:color draw:name="Ubuntu Warm Grey 30%" draw:color="#E6E4E2"/>
+ <draw:color draw:name="Ubuntu Warm Grey 40%" draw:color="#DEDBD8"/>
+ <draw:color draw:name="Ubuntu Warm Grey 50%" draw:color="#D6D3CF"/>
+ <draw:color draw:name="Ubuntu Warm Grey 60%" draw:color="#CECAC5"/>
+ <draw:color draw:name="Ubuntu Warm Grey 70%" draw:color="#C6C1BB"/>
+ <draw:color draw:name="Ubuntu Warm Grey 80%" draw:color="#BEB8B2"/>
+ <draw:color draw:name="Ubuntu Warm Grey 90%" draw:color="#B6AFA8"/>
+ <draw:color draw:name="Ubuntu Warm Grey 100%" draw:color="#AEA79F"/>
+
 <!-- Microsoft LARISSA color scheme -->
  <draw:color draw:name="Larissa 1" draw:color="#eeece1"/>
  <draw:color draw:name="Larissa 1 (-10%)" draw:color="#ddd9c3"/>
